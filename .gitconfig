@@ -1,0 +1,11 @@
+[alias]
+    ci = commit
+    co = checkout
+    st = status
+    br = branch
+[diff]
+    color = auto
+[status]
+    color = auto
+[credential]
+    helper = store
